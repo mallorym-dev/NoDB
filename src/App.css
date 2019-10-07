@@ -1,0 +1,61 @@
+.showGoals {
+  text-align: center;
+  background-color: turquoise;
+}
+
+.title {
+  height: 150px;
+  width: 100vw;
+  background-color: aquamarine;
+  font-size: 90px;
+  color: teal;
+}
+
+.showsToSee {
+  height: 100px;
+  width: 100vw;
+  background-color: teal;
+  font-size: 60px;
+}
+
+.showsSeen {
+  height: 100px;
+  width: 100vw;
+  background-color: teal;
+  font-size: 60px;
+}
+
+.footer {
+  height: 300px;
+  width: 100vw;
+  background-color: turquoise;
+}
+
+.popcorn {
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 200px;
+}
+
+.netflix {
+  height: 100px;
+  width: 150px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.tv {
+  height: 100px;
+  width: 130px;
+  display: flex;
+  margin-left: 50px;
+}
+
+.hbo {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin-left: 650px;
+}
